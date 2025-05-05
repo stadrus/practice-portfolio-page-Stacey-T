@@ -1,4 +1,18 @@
 body {
+    text-align: left;
+    background-color: #ea01fb2e;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+h1 {
     text-align: center;
-    background-color: #dec34e;
-  }
+    background-color: #a81bb32e;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3{
+    text-align: center;
+    background-color: #a81bb32e;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
